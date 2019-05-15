@@ -16,7 +16,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         char[] x = new char[5];
-        x[0] = 'h';
+        x[0] = 'i';
         x[1] = 'e';
         x[2] = 'l';
         x[3] = 'l';

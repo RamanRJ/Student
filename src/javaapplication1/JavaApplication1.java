@@ -8,7 +8,7 @@ package javaapplication1;
 /**
  *
  * @author hyper
- * Date of Edit: 22/05/2019
+ * Date of Edit: 22/05
  */
 public class JavaApplication1 {
 

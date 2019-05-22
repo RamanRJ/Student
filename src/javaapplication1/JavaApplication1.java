@@ -23,6 +23,7 @@ public class JavaApplication1 {
         x[2] = 'l';
         x[3] = 'l';
         x[4] = 'o';
+        x[5] = 'y';
         
         for(int dex = 0; dex < x.length; dex++){
             System.out.print(x[dex]);

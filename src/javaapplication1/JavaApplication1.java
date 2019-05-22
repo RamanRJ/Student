@@ -9,7 +9,7 @@ package javaapplication1;
  *
  * @author hyper
  * Date of Edit: 22/05
- * Author:Ramanvir Singh
+ * Author:Ramanvir Singh Sahota
  */
 public class JavaApplication1 {
 

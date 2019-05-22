@@ -26,6 +26,7 @@ public class JavaApplication1 {
         
         for(int dex = 0; dex < x.length; dex++){
             System.out.print(x[dex]);
+            System.out.println("Testing Fetch");
         }
         
         // TODO code application logic here
